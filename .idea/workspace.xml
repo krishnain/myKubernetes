@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="086cb7d9-e5ea-4be6-985a-52e42ab06c8b" name="Default Changelist" comment="" />
+    <list default="true" id="086cb7d9-e5ea-4be6-985a-52e42ab06c8b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/postgres-deployment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/postgres-deployment.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redis-deployment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/redis-deployment.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result-app-deployment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/result-app-deployment.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/voting-app-deployment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/voting-app-deployment.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/worker-app-deployment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/worker-app-deployment.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="23bLTl7nSXXLFbe2gC7J4ibVtmf" />
   <component name="ProjectViewState">
@@ -30,9 +40,9 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="158" y="87" key="com.intellij.ide.util.TipDialog" timestamp="1642603141965">
+    <state x="158" y="87" key="com.intellij.ide.util.TipDialog" timestamp="1642771070955">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="158" y="87" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1642603141965" />
+    <state x="158" y="87" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1642771070955" />
   </component>
 </project>
